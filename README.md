@@ -37,3 +37,4 @@ Criar uma plataforma de identificação biométrica (seja voz ou facial) para au
 
 Api's Recomendadas
 * https://voiceit.io/ (free por 30 dias)
+* OpenCV https://opencv.org/
